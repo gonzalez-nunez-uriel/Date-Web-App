@@ -1,0 +1,14 @@
+.header {
+  background-color: #b6ffa6;
+  padding: 10px;
+}
+
+#brand {
+  color: green;
+  margin: 0px 10px;
+  font-family: sans-serif;
+}
+
+.content {
+  margin: 20px;
+}
